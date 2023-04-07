@@ -1,0 +1,97 @@
+Afro-Asiatic|Arabic>Maghreb A.|Maltese|0.53e6|Malta|https://en.wikipedia.org/wiki/Maltese_language
+Paleo-European|Aquitanian|Basque|0.75e6|Spain,France|https://en.wikipedia.org/wiki/Basque_language
+Uralic|Finno-Sámi>Finnic|Estonian|1.2e6|Estonia|https://en.wikipedia.org/wiki/Estonian_language
+Uralic|Finno-Sámi>Finnic|Finnish|5.8e6|Finland,Sweden,Norway|https://en.wikipedia.org/wiki/Finnish_language
+Uralic|Finno-Sámi>Finnic|Karelian|11e3|Finland|https://en.wikipedia.org/wiki/Karelian_language
+Uralic|Finno-Sámi>Finnic|Võro|0.1e6|Estonia|https://en.wikipedia.org/wiki/V%C3%B5ro_language
+Uralic|Finno-Sámi>Sámi|North Sámi|26e3|Norway,Sweden,Finland|https://en.wikipedia.org/wiki/Northern_S%C3%A1mi
+Uralic|Ugric|Hungarian|17e6|Hungary,Austria,Croatia,Romania,Serbia,Slovakia,Slovenia,Ukraine|https://en.wikipedia.org/wiki/Hungarian_language
+Indo-European|Armenian|Armenian|52e3|Armenia,Azerbaijan|https://en.wikipedia.org/wiki/Armenian_language
+Indo-European|Balto-Slavic>Baltic>Eastern Baltic|Latvian|1.5e6|Latvia|https://en.wikipedia.org/wiki/Latvian_language
+Indo-European|Balto-Slavic>Baltic>Eastern Baltic|Lithuanian|3.0e6|Lithuania|https://en.wikipedia.org/wiki/Lithuanian_language
+Indo-European|Balto-Slavic>Slavic>East Slavic|Rusyn|70e3|Slovakia,Serbia,Poland,Ukraine,Croatia,Hungary,Czech Republic|https://en.wikipedia.org/wiki/Rusyn_language
+Indo-European|Balto-Slavic>Slavic>East Slavic|Ukrainian|32.6e6|Ukraine|https://en.wikipedia.org/wiki/Ukrainian_language
+Indo-European|Balto-Slavic>Slavic>South Slavic|Bulgarian|6e6|Bulgaria,Albania,Greece,Romania,North Macedonia,Moldova,Serbia,Turkey,Ukraine|https://en.wikipedia.org/wiki/Bulgarian_language
+Indo-European|Balto-Slavic>Slavic>South Slavic|Macedonian|2e6|North Macedonia,Albania,Bulgaria,Greece,Romania,Serbia|https://en.wikipedia.org/wiki/Macedonian_language
+Indo-European|Balto-Slavic>Slavic>South Slavic|Serbo-Croatian|19e6|Serbia,Croatia,Bosnia and Herzegovina,Montenegro,Kosovo|https://en.wikipedia.org/wiki/Serbo-Croatian
+Indo-European|Balto-Slavic>Slavic>South Slavic|Slovene|2.5e6|Slovenia,Italy,Austria|https://en.wikipedia.org/wiki/Slovene_language
+Indo-European|Balto-Slavic>Slavic>West Slavic|Czech|10.7e6|Czech Republic|https://en.wikipedia.org/wiki/Czech_language
+Indo-European|Balto-Slavic>Slavic>West Slavic|Kashubian|0.11e6|Poland|https://en.wikipedia.org/wiki/Kashubian_language
+Indo-European|Balto-Slavic>Slavic>West Slavic|Polish|38.5e6|Poland|https://en.wikipedia.org/wiki/Polish_language
+Indo-European|Balto-Slavic>Slavic>West Slavic|Slovak|5e6|Slovakia,Hungary,Ukraine,Serbia|https://en.wikipedia.org/wiki/Slovak_language
+Indo-European|Balto-Slavic>Slavic>West Slavic|Lower Sorbian|6.9e3|Germany|https://en.wikipedia.org/wiki/Lower_Sorbian_language
+Indo-European|Balto-Slavic>Slavic>West Slavic|Upper Sorbian|13e3|Germany|https://en.wikipedia.org/wiki/Upper_Sorbian_language
+Indo-European|Celtic>Insular Celtic>Brittonic|Breton|0.23e6|France|https://en.wikipedia.org/wiki/Breton_language
+Indo-European|Celtic>Insular Celtic>Brittonic|Welsh|0.65e6|UK|https://en.wikipedia.org/wiki/Welsh_language
+Indo-European|Celtic>Insular Celtic>Goidelic|Irish|0.17e6|Ireland|https://en.wikipedia.org/wiki/Irish_language
+Indo-European|Celtic>Insular Celtic>Goidelic|Scottish Gaelic|57e3|United Kingdom|https://en.wikipedia.org/wiki/Scottish_Gaelic
+Indo-European|Germanic>North Germanic>East Scandinavian|Bokmål|4.7e6|Norway|https://en.wikipedia.org/wiki/Bokm%C3%A5l
+Indo-European|Germanic>North Germanic>East Scandinavian|Danish|6e6|Denmark,Germany|https://en.wikipedia.org/wiki/Danish_language
+Indo-European|Germanic>North Germanic>East Scandinavian|Jämtland dialects|30e3|Sweden|https://en.wikipedia.org/wiki/J%C3%A4mtland_dialects
+Indo-European|Germanic>North Germanic>East Scandinavian|Swedish|10e6|Sweden,Finland|https://en.wikipedia.org/wiki/Swedish_language
+Indo-European|Germanic>North Germanic>West Scandinavian|Faroese|72e3|Denmark|https://en.wikipedia.org/wiki/Faroese_language
+Indo-European|Germanic>North Germanic>West Scandinavian|Icelandic|0.36e6|Iceland|https://en.wikipedia.org/wiki/Icelandic_language
+Indo-European|Germanic>North Germanic>West Scandinavian|Nynorsk|0.67e6|Norway|https://en.wikipedia.org/wiki/Nynorsk
+Indo-European|Germanic>West Germanic>High German|Alemannic|7e6|Switzerland,Germany,Austria,Liechtenstein,France,Italy|https://en.wikipedia.org/wiki/Alemannic_German
+Indo-European|Germanic>West Germanic>High German|Bavarian|14e6|Germany,Austria,Italy|https://en.wikipedia.org/wiki/Bavarian_language
+Indo-European|Germanic>West Germanic>High German|German|95e6|Germany,Switzerland,Austria,Luxembourg,Belgium,Liechtenstein|https://en.wikipedia.org/wiki/German_language
+Indo-European|Germanic>West Germanic>High German|Yiddish|1.5e6|Ukraine,Romania,Poland,Hungary,Lithuania|https://en.wikipedia.org/wiki/Yiddish
+Indo-European|Germanic>West Germanic>Franconian|Luxembourgish|0.43e6|Luxembourg,Germany,Belgium,France|https://en.wikipedia.org/wiki/Luxembourgish
+Indo-European|Germanic>West Germanic>Franconian|Palatine German|0.4e6|Germany|https://en.wikipedia.org/wiki/Palatine_German_language
+Indo-European|Germanic>West Germanic>Franconian|Ripuarian|0.25e6|Germany,Belgium,Netherlands|https://en.wikipedia.org/wiki/Ripuarian_language
+Indo-European|Germanic>West Germanic>Franconian|East F.|4.9e6|Germany|https://en.wikipedia.org/wiki/East_Franconian_German
+Indo-European|Germanic>West Germanic>Franconian|Dutch|22e6|Netherlands,Belgium|https://en.wikipedia.org/wiki/Dutch_language
+Indo-European|Germanic>West Germanic>Franconian|Limburgish|1.3e6|Netherlands,Belgium,Germany|https://en.wikipedia.org/wiki/Limburgish
+Indo-European|Germanic>West Germanic>Franconian|Zeelandic|0.22e6|Netherlands|https://en.wikipedia.org/wiki/Zeelandic
+Indo-European|Germanic>West Germanic>North Sea Germanic>Anglo-Frisian|English|63e6|UK,Ireland|https://en.wikipedia.org/wiki/English_language
+Indo-European|Germanic>West Germanic>North Sea Germanic>Anglo-Frisian|East Frisian|2e3|Germany|https://en.wikipedia.org/wiki/East_Frisian_language
+Indo-European|Germanic>West Germanic>North Sea Germanic>Anglo-Frisian|North Frisian|10e3|Germany|https://en.wikipedia.org/wiki/North_Frisian_language
+Indo-European|Germanic>West Germanic>North Sea Germanic>Anglo-Frisian|West Frisian|0.47e6|Netherlands|https://en.wikipedia.org/wiki/West_Frisian_language
+Indo-European|Germanic>West Germanic>North Sea Germanic>Anglo-Frisian|Scots|1.5e6|UK,Ireland|https://en.wikipedia.org/wiki/Scots_language
+Indo-European|Germanic>West Germanic>North Sea Germanic|Low German|4.35e6|Germany,Netherlands,Denmark|https://en.wikipedia.org/wiki/Low_German
+Indo-European|Hellenic>Greek>Ionic-Attic|Modern Greek|13.5e6|Greece,Albania,Cyprus,Italy|https://en.wikipedia.org/wiki/Modern_Greek
+Indo-European|Hellenic>Greek>Ionic-Attic|Pontic Greek|0.2e6|Greece|https://en.wikipedia.org/wiki/Pontic_Greek
+Indo-European|Hellenic>Greek>Ionic-Attic|Mariupolitan Greek|20e3|Ukraine|https://en.wikipedia.org/wiki/Mariupol_Greek
+Indo-European|Hellenic>Greek>Ionic-Attic|Griko|20e3|Italy|https://en.wikipedia.org/wiki/Griko_language
+Indo-European|Hellenic>Greek>Doric|Tsakonian|2e3|Greece|https://en.wikipedia.org/wiki/Tsakonian_language
+Indo-European|Indo-Aryan>Western Indo-Aryan>Romani|Balkan R.|0.6e6|Bulgaria,Romania,Greece,Kosovo,North Macedonia,Slovenia,Serbia,Croatia,Bosnia and Herzegovina|https://en.wikipedia.org/wiki/Balkan_Romani
+Indo-European|Indo-Aryan>Western Indo-Aryan>Romani|Baltic R.|46e3|Poland,Lithuania,Latvia,Estonia,Finland,Ukraine|https://en.wikipedia.org/wiki/Baltic_Romani
+Indo-European|Indo-Aryan>Western Indo-Aryan>Romani|Carpathian R.|0.15e6|Poland,Czech Republic,Slovakia,Austria,Ukraine,Slovenia|https://en.wikipedia.org/wiki/Carpathian_Romani
+Indo-European|Indo-Aryan>Western Indo-Aryan>Romani|Vlax R.|0.54e6|Bosnia,Romania,Serbia,Albania,Hungary|https://en.wikipedia.org/wiki/Vlax_Romani_language
+Indo-European|Indo-Aryan>Western Indo-Aryan>Para-Romani|Sinte Romani|0.195e6|Germany,Austria,Switzerland,Czech Republic,Italy,France,Netherlands,Serbia,Croatia|https://en.wikipedia.org/wiki/Sinte_Romani
+Indo-European|Indo-Aryan>Western Indo-Aryan>Para-Romani|Caló|60e3|Spain,Portugal,France|https://en.wikipedia.org/wiki/Cal%C3%B3_language
+Indo-European|Indo-Aryan>Western Indo-Aryan>Para-Romani|Romano-Serbian|0.17e6|Serbia|https://en.wikipedia.org/wiki/Romano-Serbian_language
+Indo-European|Paleo-Balkan>Albanian|Gheg|4.1e6|Albania,Kosovo,North Macedonia,Montenegro,Serbia|https://en.wikipedia.org/wiki/Gheg_Albanian
+Indo-European|Paleo-Balkan>Albanian|Tosk|1.8e6|Albania,North Macedonia,Italy,Greece,Turkey|https://en.wikipedia.org/wiki/Tosk_Albanian
+Indo-European|Romance>Eastern Romance|Romanian|24e6|Romania,Moldova|https://en.wikipedia.org/wiki/Romanian_language
+Indo-European|Romance>Eastern Romance|Aromanian|0.21e6|Greece,Albania,North Macedonia,Bulgaria,Romania,Serbia|https://en.wikipedia.org/wiki/Aromanian_language
+Indo-European|Romance>Island Romance|Sardinian|1.35e6|Italy|https://en.wikipedia.org/wiki/Sardinian_language
+Indo-European|Romance>Western Romance>Oïl|French|81e6|France,Switzerland,Belgium|https://en.wikipedia.org/wiki/French_language
+Indo-European|Romance>Western Romance>Oïl|Norman|21e3|France,Jersey,Guernsey,Sark|https://en.wikipedia.org/wiki/Norman_language
+Indo-European|Romance>Western Romance>Oïl|Picard|0.7e6|France,Belgium|https://en.wikipedia.org/wiki/Picard_language
+Indo-European|Romance>Western Romance>Oïl|Walloon|0.6e6|Belgium,France|https://en.wikipedia.org/wiki/Walloon_language
+Indo-European|Romance>Western Romance|Franco-Provençal|0.16e6|Italy,France,Switzerland|https://en.wikipedia.org/wiki/Franco-Proven%C3%A7al
+Indo-European|Romance>Western Romance>North Italian|Friulian|0.42e6|Italy|https://en.wikipedia.org/wiki/Friulian_language
+Indo-European|Romance>Western Romance>North Italian|Emilian|9.3e6|Italy|https://en.wikipedia.org/wiki/Emilian_dialects
+Indo-European|Romance>Western Romance>North Italian|Ligurian|0.6e6|Italy,Monaco,France|https://en.wikipedia.org/wiki/Ligurian_language
+Indo-European|Romance>Western Romance>North Italian|Lombard|3.8e6|Italy,Switzerland|https://en.wikipedia.org/wiki/Lombard_language
+Indo-European|Romance>Western Romance>North Italian|Piedmontese|2.0e6|Italy|https://en.wikipedia.org/wiki/Piedmontese_language
+Indo-European|Romance>Western Romance>North Italian|Romagnol|1.1e6|Italy,San Marino|https://en.wikipedia.org/wiki/Romagnol_dialects
+Indo-European|Romance>Western Romance>North Italian|Venetian|3.9e6|Italy,Slovenia,Croatia|https://en.wikipedia.org/wiki/Venetian_language
+Indo-European|Romance>Western Romance>North Italian|Ladin|41e3|Italy|https://en.wikipedia.org/wiki/Ladin_language
+Indo-European|Romance>Western Romance>North Italian|Romansh|40e3|Switzerland|https://en.wikipedia.org/wiki/Romansh_language
+Indo-European|Romance>Western Romance>Ibero-Romance|Aragonese|12e3|Spain|https://en.wikipedia.org/wiki/Aragonese_language
+Indo-European|Romance>Western Romance>Ibero-Romance|Asturleonese|0.3e6|Spain,Portugal|https://en.wikipedia.org/wiki/Asturleonese_language
+Indo-European|Romance>Western Romance>Ibero-Romance|Galician|2.4e6|Spain|https://en.wikipedia.org/wiki/Galician_language
+Indo-European|Romance>Western Romance>Ibero-Romance|Portuguese|10e6|Portugal|https://en.wikipedia.org/wiki/Portuguese_language
+Indo-European|Romance>Western Romance>Ibero-Romance|Spanish|47e6|Spain|https://en.wikipedia.org/wiki/Spanish_language
+Indo-European|Romance>Western Romance>Island Romance|Sardinian|1e6|Italy|https://en.wikipedia.org/wiki/Sardinian_language
+Indo-European|Romance>Western Romance>Occitano-Romance|Catalan|4.1e6|Andorra,France,Italy,Spain|https://en.wikipedia.org/wiki/Catalan_language
+Indo-European|Romance>Western Romance>Occitano-Romance|Occitan|0.45e6|France,Spain,Italy|https://en.wikipedia.org/wiki/Occitan_language
+Indo-European|Romance>Western Romance>South Romance|Italian|65e6|Italy,San Marino,Vatican City,Switzerland,Slovenia,Croatia|https://en.wikipedia.org/wiki/Italian_language
+Indo-European|Romance>Western Romance>South Romance|Neapolitan|5.7e6|Italy|https://en.wikipedia.org/wiki/Neapolitan_language
+Indo-European|Romance>Western Romance>South Romance|Sassarese|0.1e6|Italy|https://en.wikipedia.org/wiki/Sassarese_language
+Indo-European|Romance>Western Romance>South Romance|Sicilian|4.7e6|Italy|https://en.wikipedia.org/wiki/Sicilian_language
+Indo-European|Romance>Western Romance>South Romance|Corsican|0.15e6|France,Italy|https://en.wikipedia.org/wiki/Corsican_language
+Turkic|Common Turkic>Kipchak|Crimean Tatar|0.58e6|Ukraine,Romania,Bulgaria,Lithuania,Poland|https://en.wikipedia.org/wiki/Crimean_Tatar_language
+Turkic|Common Turkic>Oghuz|Gagauz|149e3|Moldova,Ukraine|https://en.wikipedia.org/wiki/Gagauz_language
