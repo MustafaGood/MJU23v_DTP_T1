@@ -34,7 +34,7 @@ namespace MJU23v_DTP_T1
         {
             Console.WriteLine($"Language {Name}:");
             Console.Write($"  family: {Family}");
-            if (!string.IsNullOrEmpty(Group)) // FIXME: Use string.IsNullOrEmpty() method
+            if (!string.IsNullOrEmpty(Group))
             {
                 Console.Write($">{Group}");
             }
@@ -65,9 +65,14 @@ namespace MJU23v_DTP_T1
                     }
                 }
             }
-            catch (Exception ex) // FIXME: Catch specific exception types
+            catch (IOException ex)
             {
                 Console.WriteLine($"Error reading input file: {ex.Message}");
+                return;
+            }
+            catch (FormatException ex)
+            {
+                Console.WriteLine($"Error parsing population: {ex.Message}");
                 return;
             }
 
@@ -99,26 +104,25 @@ namespace MJU23v_DTP_T1
             }
 
             Console.WriteLine("==== Number of Germanics ====");
-            int germanicPopulation = 0;
-            foreach (Language lang in languages)
-            {
-                if (lang.Group.Contains("Germanic"))
-                {
-                    germanicPopulation += lang.Population;
-                }
-            }
+            int germanicPopulation = GetPopulationByGroup("Germanic");
             Console.WriteLine($"Germanic speaking population: {germanicPopulation}");
 
             Console.WriteLine("==== Number of Romance ====");
-            int romancePopulation = 0;
-            foreach (Language lang in languages)
+            int romancePopulation = GetPopulationByGroup("Romance");
+            Console.WriteLine($"Romance speaking population: {romancePopulation}");
+        }
+
+        static int GetPopulationByGroup(string group)
+        {
+            int population = 0;
+            foreach (Language language in languages)
             {
-                if (lang.Group.Contains("Romance"))
+                if (language.Group.Contains(group))
                 {
-                    romancePopulation += lang.Population;
+                    population += language.Population;
                 }
             }
-            Console.WriteLine($"Romance speaking population: {romancePopulation}");
+            return population;
         }
     }
 }
